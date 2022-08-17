@@ -1,5 +1,5 @@
 import random
-from .emoji_dict import movie_dict, country_dict
+from .emoji_dict import movie_dict
 
 class EmojiGame():
     def show_movie_options():
