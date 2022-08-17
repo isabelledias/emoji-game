@@ -19,4 +19,3 @@ setuptools.setup(
     install_requires=['emoji'], # add any additional packages that 
                                    # needs to be installed along with your package.
 )
-s
