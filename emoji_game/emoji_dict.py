@@ -13,17 +13,3 @@ movie_dict = {
     'Lion King' : emoji.emojize(':lion: :crown:'),
     'Up' : emoji.emojize(':house: :balloon: :balloon: :balloon: :index_pointing_up:'),
 }
-
-country_dict = {
-    'Monaco' : emoji.emojize(':racing_car: :chequered_flag: :slot_machine: :game_die:'),
-    'Germany' : emoji.emojize(':beer_mug: :soccer_ball: :bacon:'),
-    'Brazil' : emoji.emojize(':soccer_ball: :beach_with_umbrella: :bikini: :hot_beverage:'),
-    'Australia' : emoji.emojize(':kangaroo: :water_wave: :desert_island:'),
-    'France' : emoji.emojize(':croissant: :baguette_bread: :wine_glass:'),
-    'Italy' : emoji.emojize(':pizza: :spaghetti: :cheese_wedge: :wine_glass:'),
-    'Holland' : emoji.emojize(':tulip: :bicycle:'),
-    'Switzerland' : emoji.emojize(':chocolate_bar: :watch: :mountain:'),
-    'Russia' : emoji.emojize(':bear: :snowflake:'),
-    'Ireland' : emoji.emojize(':four_leaf_clover: :woman_red_hair:'),
-    'Canada' : emoji.emojize(':maple_leaf: :snowflake:'),
-}
